@@ -21,6 +21,9 @@ The program is divided in 6 functions:
 
 - send_message: Sends the message to the telegram bot.
 
+#### Note:
+This program only works with the website www.fnac.pt due to the parsing of the URL link because it changes from website to website.
+
 #### Testing
 
 To test the program we need to create a file called test_project.py where we run pytest to check if the output of each function is what we expected and if it is it will pass all tests.
