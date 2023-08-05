@@ -45,9 +45,3 @@ In this project I used:
 #### Thoughts and things learned with this project
 
 With this project I gained experience with web requests and handling/parsing real world values and deal with them, I expect to focus more on this part of python in the future to amplify my knowledge:
-
-#### Thoughts about this corse
-
-CS50 Python thought me a lot of this language that I didn´t know, I leave with a solid base of what is Python and what is programming but I recommend this course after completing CS50 because it makes your life 95% easier, I complited this course in one or two weeks and there wore days were I didn´t even code so you get the ideia and thats all, thanks for reading.
-
-## This was CS50 Python
